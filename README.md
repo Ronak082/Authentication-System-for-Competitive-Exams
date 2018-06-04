@@ -1,0 +1,2 @@
+# Authentication-System-for-Competitive-Exams
+This application is about authenticating a student’s identity for competitive exams by scanning faces. Training a candidate’s photo using Microsoft Azure in order to avoid the discrepancy and controversies in the examination. This will not only make registration process easier for candidates but will also help government officials to save their time and complete the process more effectively. Achieved 75% accuracy in scanning faces with a history of over 5 years for same candidates in created database.
